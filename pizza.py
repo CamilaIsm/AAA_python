@@ -10,6 +10,8 @@ class Pizza:
         name = name.capitalize()
         if name not in ['Margherita', 'Pepperoni', 'Hawaiian']:
             raise ValueError(f'Такой пиццы нет в наличии')
+        if size not in ['L', 'XL']:
+            raise ValueError(f'Размер должен быть L или XL')
 
         self.name = name
         self.size = size
