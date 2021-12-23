@@ -1,5 +1,5 @@
-from random import randint
 from typing import Callable
+from random import randint
 import click
 
 
