@@ -40,7 +40,6 @@ class Pizza:
         return recipe
 
     def __str__(self):
-        """ Сравнение двух пицц """
         return f'{self.name} ({self.size})'
 
     def __eq__(self, other):
