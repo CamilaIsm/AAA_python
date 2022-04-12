@@ -2,7 +2,7 @@
 Avito analytics academy python course
 
 
-testing: 
+# testing: 
 
 issue 01:
 Тестирование с помощью доктестов. Импортировать библиотеку doctest: import doctest. Run file morse.py.
