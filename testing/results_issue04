@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+collecting ... collected 3 items
+
+one_hot_encoder.py::Test_one_coder::test_basic PASSED                    [ 33%]
+one_hot_encoder.py::Test_one_coder::test_empty PASSED                    [ 66%]
+one_hot_encoder.py::Test_one_coder::test_not_equal PASSED                [100%]
+
+============================== 3 passed in 0.03s ===============================
+
+Process finished with exit code 0
