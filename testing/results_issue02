@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+collecting ... collected 3 items
+
+test_issue02.py::test_decode[.- .- .--AAA] PASSED                        [ 33%]
+test_issue02.py::test_decode[... --- ...-SOS] PASSED                     [ 66%]
+test_issue02.py::test_decode[.... ..-HI] PASSED                          [100%]
+
+============================== 3 passed in 0.02s ===============================
+
+Process finished with exit code 0
